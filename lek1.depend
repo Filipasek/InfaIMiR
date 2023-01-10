@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1673293884 source:d:\produktywne\c\lek1\lek1\main.c
+1673349482 source:d:\produktywne\c\lek1\lek1\main.c
 	<stdio.h>
 	<stdlib.h>
+	<math.h>
 
